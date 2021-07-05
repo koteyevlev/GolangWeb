@@ -1,2 +1,2 @@
 # GolangWeb
-This is a basic web go project
+This is a basic web go project (WIP)
